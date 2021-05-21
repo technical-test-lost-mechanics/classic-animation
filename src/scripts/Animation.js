@@ -31,7 +31,7 @@ export default class Animation {
                 rotate: -270,
                 duration: 1,
                 delay: 0.2,
-                y: -25,
+                y: -24,
                 transformOrigin: '0% 100%',
                 ease: 'power4.inOut'
             })
